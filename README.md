@@ -11,7 +11,7 @@ FILE DESCRIPTIONS:
             
 **2. DAEderivation.m**
        
-       Contains the derivation of equations of motion using method of DAEs
+      Contains the derivation of equations of motion using method of DAEs
  
  **3. my4barlinkrhsDAE.m**
       
